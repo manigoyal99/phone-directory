@@ -5,7 +5,7 @@
  const Header = function () {
      return (
         
-         <div className="header"></div>
+         <div className="header">
              Phone Directory
          </div>
      )
